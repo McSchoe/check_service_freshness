@@ -1,5 +1,5 @@
 name: check_service_freshness
-description: "file:///README.md"
+description: "file:///Readme.md"
 url: "https://github.com/McSchoe/Monitoring/tree/master/Plugins/icinga2_check_service_freshness"
 tags: ~
 vendor: Linux
