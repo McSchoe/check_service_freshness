@@ -1,0 +1,18 @@
+name: check_service_freshness
+description: "file:///README.md"
+url: "https://github.com/McSchoe/Monitoring/tree/master/Plugins/icinga2_check_service_freshness"
+tags: ~
+vendor: Linux
+target: Icinga2, Icingaweb2,Service Freshness
+type: Plugin
+license: gplv2
+releases: 
+  - 
+    name: 0.2
+    description: "0.2 Release"
+    files: 
+      - 
+        name: check_freshness.py
+        url: "file:///check_freshness.py"
+        description: "First release"
+        checksum: f30823ff4803a18bac2cba25caab043f
